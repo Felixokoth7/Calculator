@@ -1,7 +1,6 @@
-## Getting Started
+## Project Details
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
+This is a simple project I was working on as an extention to my object oriented programming class(OOP). The project is basically a simple calculator that allows user to input in values and execute the operations. 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
@@ -11,8 +10,8 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## How the Calculator works
+
+The calculator basically works by allowing user to put in numbers on a display screen. once they have input the numbers, they can perform any operations using the symbols displayed on the right side of the calculator. The calculator performs the operations and provides an accurate answer. 
